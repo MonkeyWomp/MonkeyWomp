@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MonkeyWomp
 - 👀 I’m interested in playing volleyball and tutoring a bit about programming
 - 🌱 I am currently learning programming in several languages such as c++, c# and java
-- 💞️ I’m looking to collaborate on ...
 - 📫 If you want to reach me write me on DM on discord (imonlyone01)
 - 😄 Pronouns: i don't have one😅
